@@ -26,5 +26,8 @@ To build a machine learning model that identifies high-value NYC Airbnb listings
 - Scikit-learn
 - Google Colab
 
+## The full dataset is available on [Kaggle - NYC Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
+
+
 ---
 
